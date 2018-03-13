@@ -1,0 +1,26 @@
+{
+  "name": "bot-meteo-by-echo",
+  "version": "1.0.0",
+  "description": "display meteo at localization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamarelo/bot-meteo-by-echo.git"
+  },
+  "author": "Elies AMARELo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eamarelo/bot-meteo-by-echo/issues"
+  },
+  "homepage": "https://github.com/eamarelo/bot-meteo-by-echo#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2"
+  },
+  "dependencies": {
+    "deasync": "^0.1.12",
+    "request": "^2.83.0"
+  }
+}
